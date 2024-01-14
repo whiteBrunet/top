@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-hi ramazan change notepad
-=======
+
 ddd hi ramazan
->>>>>>> newbranch
+
